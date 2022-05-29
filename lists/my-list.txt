@@ -5,4 +5,3 @@ https://filters.adtidy.org/extension/ublock/filters/11.txt
 https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
-https://gist.githubusercontent.com/Salin1810/63d0c08957c863d045d605aa1ac7df12/raw/3d6e6b25876b02eef07e172641e64dc245c93ac9/my-adblock-list.txt
