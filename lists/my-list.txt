@@ -2,6 +2,8 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.tx
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 https://cdn.statically.io/gh/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://filters.adtidy.org/extension/ublock/filters/11.txt
+https://filters.adtidy.org/extension/ublock/filters/2.txt
+https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
